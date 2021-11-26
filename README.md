@@ -2,7 +2,7 @@
 ## Software Requirements for Development and Implementation
 Platform :  Cisco Packet Tracer   
 Operating  System: Windows/Mac
-Programing language : Java
+Programming Language: Java
 
 ## Introduction:
 The terms "Internet of Things" and "Internet of Everything" allude to the new trend of using small, inexpensive, and always-connected devices to communicate data to backend cloud-based applications. This opens up a whole new world of possibilities and products for businesses to develop and sell in both the industrial and consumer markets. One of the most common uses of an IoT gadget is to listen to bluetooth music through a speaker.
