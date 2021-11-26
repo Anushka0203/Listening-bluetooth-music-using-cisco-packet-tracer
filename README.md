@@ -1,7 +1,7 @@
 # Listening-bluetooth-music-using-cisco-packet-tracer
 ## Software Requirements for Development and Implementation
 Platform :  Cisco Packet Tracer   
-Operating  System: Windows/Mac 
+Operating  System: Windows/Mac
 Programing language : Java
 
 ## Introduction:
@@ -18,6 +18,7 @@ Bluetooth is a flexible means of communicating in "noisy" regions at a low bandw
 The hardware, communication, software system, and application layers make up a typical IoT design, with Bluetooth serving as the communication layer. The communication layer, which consists of a multi-layer stack that includes data connection, network or transport, and session protocols, is a vital link between the layers. Bluetooth, often known as BLE, is a data communication layer that links sensors to sensors or sensors to gateways. On the other side, the network layer is in charge of routing or transporting packets across the network using the most appropriate pathways. The session layer protocols allow communication between different aspects of the IoT communication subsystem.
 'Bluetooth technology' is less expensive to implement than other communication protocols such as RFID, NFC, WLAN, LoRa WAN, LTE-A, and WiFi-Direct. It also allows for wireless communication and the creation of an immediate Personal Area Network (PAN) in areas where wireless infrastructure is lacking. It features a consistent methodology and minimum interference.
 
+## Project using cisco packet tracer:
 ![p](https://user-images.githubusercontent.com/86556654/143622349-e1bc047a-4337-447d-b1a7-b9b2a4c6b9de.PNG)
 ## Steps for directly connecting music player to the bluetooth speaker:
 Step 1: Choose a portable music player and pair it with the bluetooth speaker. The green horizontal lines indicate that the device is paired with the bluetooth speaker.
